@@ -11,4 +11,4 @@ If you don't know the word, press unknown button with icon "x" to keep the word 
 
 If you press close button, it will display confirmation dialog about to save your progress or not.
 
-try flash card app: https://drive.google.com/file/d/19X2KWX5RltViPtOLspNg01fVD6UxdofO/view?usp=sharing
+try flash card app: https://drive.google.com/file/d/19tcXx5I4unLEL7IXpQhlQ49AUUjTRaHG/view?usp=sharing
