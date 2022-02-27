@@ -1,0 +1,678 @@
+Japan,English
+ningen,human
+jinrui,humanity
+hito,person
+otoko,male
+otokonohito,man
+otokonoko,boy
+onna,female
+onnanohito,woman
+onnanoko,girl
+akachan,baby
+wakamono,young person
+watashi,"I, myself"
+boku,"I, myself (Boy)"
+ore,"I, myself (Boy)"
+atashi,"I, myself (Girl)"
+shounen,boy
+isha,doctor
+kangoshi,nurse
+kangofu,female nurse
+"shikai, ha-isha",dentist
+seijika,politician
+bengoshi,lawyer
+shouboushi,firefighter
+keisatsukan,police officer
+heishi,soldier
+kenchikuka,architect
+sensei,teacher
+kyoushi,teacher
+kashu,singer
+enjinia,engineer
+ashi,foot
+kakato,heel
+sune,shin
+hiza,knee
+momo,thigh
+atama,head
+kao,face
+kuchi,mouth
+kuchibiru,lips
+ha,tooth
+hana,nose
+me,eye
+hige,moustache
+kami,hair
+mimi,ear
+onaka,stomach
+ude,arm
+hiji,elbow
+kata,shoulder
+tsume,nail
+te,hand
+tekubi,wrist
+te-no-hira,palm of hand
+yubi,finger
+shiri,buttocks
+o-naka,abdomen
+kanzō,liver
+kimo,liver
+kin'niku,muscle
+kubi,neck
+kokoro,heart (feelings)
+koshi,"waist, hip"
+shinzō,heart
+senaka,back
+chi,blood
+niku,meat
+hada,skin
+hifu,skin
+hone,bone
+mune,chest
+kaze,cold (illness)
+geri,diarrhea
+byōki,illness
+kazoku,family
+ryoushin,parents
+kodomo,children
+chichi,father
+haha,mother
+tsuma,wife
+otto,husband
+ani,older brother
+ane,older sister
+otōto,younger brother
+imōto,younger sister
+kyōdai,brothers
+shimai,sisters
+sofu,grandfather
+sobo,grandmother
+mago,grandchild
+oji,uncle
+oba,aunt
+itoko,cousin
+mei,niece
+oi,nephew
+ikimono,living creatures
+bakemono,monster
+dōbutsu,animal
+chītā,cheetah
+inu,dog
+neko,cat
+ushi,cow
+buta,pig
+uma,horse
+hitsuji,sheep
+saru,monkey
+nezumi,mouse
+tora,tiger
+ōkami,wolf
+usagi,rabbit
+"ryū, tatsu",dragon
+shika,deer
+kaeru,frog
+gama,toad
+shishi,lion
+kirin,giraffe
+zō,elephant
+tori,bird
+niwatori,chicken
+suzume,sparrow
+karasu,crow
+washi,eagle
+taka,hawk
+sakana,fish
+tai,red snapper
+ebi,"shrimp, lobster"
+iwashi,sardine
+maguro,tuna
+katsuo,bonito
+sanma,pike
+aji,horse mackerel
+saba,mackerel
+ika,squid
+tako,octopus
+mushi,insect
+chō,butterfly
+ga,moth
+semi,cicada
+tonbo,dragonfly
+batta,grasshopper
+kumo,spider
+hotaru,firefly
+hae,housefly
+ka,mosquito
+gokiburi,cockroach
+katatsumuri,snail
+namekuji,slug
+mimizu,earthworm
+kai,shellfish
+kaigara,shell
+tokage,lizard
+hebi,snake
+kuma,bear
+shokubutsu,plants
+kusa,grass
+hana,flower
+mi,fruit
+ki,tree
+"ha, happa",leaf
+"ne, nekko",root
+kuki,stem
+kinoko,mushroom
+kiku,chrysanthemum
+sakura,cherry blossom
+matsu,pine tree
+ume,jp plum
+kome,uncooked rice
+ine,rice growing in a field
+mugi,"wheat, barley, oats"
+yasai,vegetable
+kudamono,fruit
+imo,"yam, potato, taro"
+mame,beans
+daikon,jp white radish
+ninjin,carrot
+ringo,apple
+mikan,mandarin orange
+"banana, kanshō",banana
+nashi,pear
+kuri,chestnut tree
+momo,peach
+"tomato, banka",tomato
+suika,watermelon
+tabemono,food
+"chōshoku, asagohan",breakfast
+hirugohan,lunch
+bangohan,dinner
+gohan,cooked rice or meal
+miso,miso
+ryōri,cooking
+sarada,salad
+dezāto,dessert
+pan,bread
+sandoitchi,sandwich
+"oyatsu, kanshoku",snack
+aisukurīmu,ice cream
+takoyaki,octopus dumpling
+nomimono,drink/beverage
+cha,tea
+ocha,green tea
+kōhī,coffee
+gyūnyū,milk
+mizu,water
+bīru,beer
+wain,wine
+satō,sugar
+shio,salt
+shōyu,soy sauce
+jikan,time
+"toki, ji",hours
+"koyomi, karendā",calendar
+fun,minute
+byō,second
+"hi, nichi",day
+"tsuki, gatsu",month
+"toshi, nen",year
+kyonen,last year
+kotoshi,this year
+rainen,next year
+"kinō, sakujitsu",yesterday
+kyō,today
+"ashita, asu, myōnichi",tomorrow
+asa,morning
+hiru,afternoon
+yūgata,evening
+ban,evening
+yoru,evening
+yōbi,day
+shū,week
+isshūkan,one week
+kinou no asa,yesterday morning
+kesa,this morning
+ashita no asa,tomorrow morning
+senshū,last week
+senshū,this week
+raishū,next week
+nichi-yōbi,Sunday
+getsu-yōbi,Monday
+ka-yōbi,Tuesday
+sui-yōbi,Wednesday
+moku-yōbi,Thursday
+kin-yōbi,Friday
+do-yōbi,Saturday
+taiyō,sun
+tsuki,moon
+hoshi,star
+tenki,weather
+hare,clear weather
+ame,rain
+kumori,cloudy
+yuki,snow
+kaze,wind
+kaminari,"thunder, lightning"
+taifū,typhoon
+arashi,storm
+sora,sky
+kita,north
+higashi,east
+minami,south
+nishi,west
+koko,here
+soko,there
+asoko,over there
+migi,right
+hidari,left
+ue,"above, up"
+shita,"below, down"
+mae,front
+ushiro,behind
+mukō,"other side, opposite side"
+naname,diagonal
+temae,"nearer, more in front"
+tooi,far
+chikai,"near, close"
+mizu,water
+yu,hot water
+kōri,ice
+yuge,steam
+hi,fire
+gasu,gas
+kūki,"air, atmosphere"
+tsuchi,"earth, ground"
+kinzoku,"metal, metallic"
+doro,"mud, mire, clay"
+kemuri,smoke
+tetsu,iron [Fe]
+dō,copper [Cu]
+kin,gold [Au]; money
+gin,silver [Ag]; wealth
+namari,lead [Pb]
+shio,salt [NaCl]
+mētoru,meter
+rittoru,litre
+guramu,gram
+kiro,kilo
+miri,milli
+senchi,centimeter
+inchi,inch
+shakai,society
+keizai,economy
+kaisha,company
+kaigi,meeting
+gakkō,school
+yakusho,local government office
+mise,store
+hoteru,hotel
+kōjō,factory
+kane,money
+satsu,bill"
+kozeni,small change
+tsurisen,change
+jidōhanbaiki,vending machine
+kitte,stamp
+tsukue,desk
+isu,"chair, position"
+tatami,a tatami mat
+to,"door, family"
+tobira,door panel
+doa,door
+mado,window
+futon,futon
+genkan,entrance
+ie,"house, home"
+erebētā,elevator
+esukarētā,escalator
+denki,electricity
+kugi,"nail, spike"
+himo,"string, cord"
+nawa,"rope, string"
+fukuro,"pocket, bag"
+kaban,leather bag
+kasa,"umbrella, parasol"
+kagi,"door bolt, key "
+chōkoku,"sculpture, engraving"
+bunbōgu,stationery
+inku,ink
+pen,pen
+bōrupen,ball-point pen
+mannenhitsu,fountain pen
+enpitsu,pencil
+fude,brush
+chōku,chalk
+keshigomu,eraser
+enpitsu-kezuri,pencil sharpener
+jōgi,ruler
+nōto,notebook
+nikki,diary
+kabā,book cover
+fūtō,envelope
+hasami,scissors
+hotchikisu,stapler
+fuku,clothes
+yōfuku,western clothing
+kimono,kimono
+wafuku,jp clothing
+sode,sleeve
+eri,"lapel, collar"
+botan,button
+"chakku, jippā",zipper
+beruto,belt
+kutsu,shoe
+kutsushita,sock
+megane,glasses
+tetsudō,railway
+eki,station
+hikōki,airplane
+"kūkō, hikōjō",airport
+michi,"street, way"
+dōro,road
+basutei,bus-stop
+tōri,avenue
+densha,train
+"kuruma, jidōsha",car
+Jitensha,bicycle
+moji,"letter, character"
+ji,"letter, character"
+kanji,Chinese character
+hiragana,hiragana characters
+katakana,katakana characters
+sūji,numbers
+arufabetto,alphabet
+rōmaji,"Roman characters"
+gaikokugo,foreign language
+nihongo,Japanese [language]
+eigo,English [language]
+chūgokugo,Chinese [language]
+doitsugo,German [language]
+supeingo,Spanish [language]
+furansugo,French [language]
+"chōsengo, kankokugo",Korean [language]
+hon,book
+kami,paper
+tegami,letter
+shinbun,newspaper
+jisho,dictionary
+pasokon,personal computer
+"iro, shikisai",color
+aka,red
+kiiro,yellow
+midori,green
+ao,blue
+murasaki,purple
+shiro,white
+kuro,black
+pinku,pink
+chairo,brown
+"haiiro, nezumiiro",grey
+orenji,orange
+e,picture
+ongaku,music
+rika,science
+sansū,arithmetic
+rekishi,history
+chiri,geography
+taiiku,physical education
+supōtsu,sport
+shisutemu,system
+jōhō,"information, news"
+hitsuyō,necessity
+benkyō,study
+irai,request
+"rei, zero",zero
+ichi,one
+ni,two
+san,three
+"yon, shi",four
+go,five
+roku,six
+"nana, shichi",seven
+hachi,eight
+"kyū, ku",nine
+"kyū, ku",ine
+hyaku,hundred
+sen,thousand
+man,ten thousand
+oku,one hundred million
+hitotsu,"one, one thing"
+futatsu,"two, two things"
+mittsu,"three, three things"
+yottsu,"four, four things"
+itsutsu,"five, five things"
+muttsu,"six, six things"
+nanatsu,"seven, seven things"
+yattsu,"eight, eight things"
+kokonotsu,"nine, nine things"
+tō,"ten, ten things"
+kore,"this, it"
+sore,that
+are,that over there
+dore,which
+"kochira, kocchi",this direction
+"sochira, socchi",that direction
+"achira, acchi",that direction
+"dochira, docchi",which direction
+himitsu,secret
+jidō,automatic
+naiyō,content
+seishiki,formality
+kekkon,marriage
+genzai,now
+ima,now
+kako,past
+mirai,future
+"ii, yoi",good
+sugoi,amazing
+subarashii,wonderful
+warui,"bad, inferior"
+takai,"expensive, high"
+hikui,low
+yasui,cheap
+ōkii,big
+chiisai,small
+hosoi,thin
+futoi,thick
+furui,old
+atarashii,new
+wakai,young
+karui,"light, easy"
+omoi,heavy
+yasashii,"easy, simple"
+muzukashii,difficult
+yawarakai,soft
+katai,hard
+atsui,hot
+tsumetai,cold
+samui,cold
+oishii,delicious
+umai,delicious
+mazui,tastes awful
+amai,sweet
+karai,hot [spicy]
+shoppai,salty
+nigai,bitter
+utsukushii,beautiful
+ureshii,happy
+tanoshii,fun
+kanashii,sad
+sabishii,lonely
+samishii,"sad, lonely"
+kowai,scary
+itai,painful
+kayui,itchy
+kusai,stinky
+tsurai,painful
+suru,to do
+yaru,to do
+iru,to exist (animate obj)
+aru,to exist (inanimate obj)
+naru,to become
+okoru,to occur
+arawareru,to appear
+ikiru,to live
+umu,to give birth
+shinu,to die
+kowareru,to breakin
+iku,to go
+kuru,to come
+kaeru,to return
+aruku,to walk
+tobu,"to jump, to fly"
+oyogu,to swim
+ugoku,to movein
+odoru,to dance
+neru,to sleep
+utau,to sing
+kamu,to bite
+taberu,to eat
+nomu,to drink
+sawaru,to touch
+nageru,to throw
+motsu,to hold
+utsu,"to hit, to strike"
+naguru,"to hit, to strike"
+sasu,to point
+sasu,to stab
+sasu,to raise hands
+keru,to kick
+suwaru,to sit
+tatsu,to stand
+hashiru,to run
+aku,to become unoccupied
+komu,to be crowded
+iru,to need
+kawaku,to become dry
+midasu,to disturb
+midareru,to be disturbed
+tsukaeru,to work for
+sonawaru,to be furnished with
+sugureru,to surpass
+hieru,to grow cold
+sameru,"to wake, to become sober"
+sameru,to cool down
+muku,"to face, to turn toward"
+taoreru,"to fall, to collapse"
+katamaru,to become firm
+umaru,to be filled
+umoreru,"to be buried, covered"
+masu,"to increase, to grow"
+fueru,"to increase, to multiply"
+heru,to decrease
+hazureru,to deviate
+futoru,to grow fat
+hajimaru,to begin
+owaru,"to finish, to close"
+kimeru,to decide
+miru,to see
+kiku,"to hear, to listen"
+sawaru,"to touch, to feel"
+kagu,to smell
+iu,to say
+hanasu,to speak
+kataru,to tell
+kaku,to write
+yomu,to read
+tsukau,to use
+tsukuru,to make
+naosu,"to fix, repair"
+suteru,throw away
+toru,to take
+oku,to put
+kanashimu,to be sad
+naku,to cry
+warau,to laugh
+okoru,to be angry
+homeru,to encourage
+shikaru,to scold
+yorokobu,to celebrate
+yorokobi,"joy, delight"
+nagusameru,provide empathy
+akiru,to be bored
+odoroku,to be surprised
+au,to meet
+akeru,"to open, to unwrap"
+asobu,to play
+atsumaru,to gatherin
+uru,to sell
+eru,to obtain
+oru,"to break, to fold"
+kau,to buy
+kiru,to cut
+kiru,to wear (upper body)
+haku,to wear (lower body)
+kaeru,to change
+kaeru,"to exchange, to replace"
+shimeru,to close
+shimeru,"to tie, to fasten"
+shimeru,to comprise
+shiru,to know
+tsukareru,to get tired
+dekakeru,"to go out, to depart"
+hataraku,"to work"
+hanasu,to let go of
+yasumu,"to rest, to take a break"
+wakareru,to be divided
+wakareru,"to separate, to break up"
+mō,already
+mada,"still, yet"
+zutto,always
+totemo,very
+kō,like this
+sō,like that
+ā,in that other way
+dō,how
+shibashiba,often
+kono,this
+sono,that
+ano,that
+dono,which
+hai,yes
+iie,no
+demo,but
+shikashi,"but, however"
+soshite,and then
+soreni,besides
+nazenara,that is because
+ga,"subject marker, but"
+de,"at, by"
+to,"and, with"
+ni,indirect object marker
+no,"possession marker, of"
+e,to
+made,to
+kara,from
+yori,than
+o,direct object marker
+oyobi,as well as
+ka,whether
+kamo,might be
+soshite,and then
+soretomo,or
+dano,things like
+to,"when, if, that"
+nagara,"while, though, both"
+narabini,as well as
+nari,whether or not
+ni,"to <somewhere>, by <someone>"
+no,possession
+node,so
+mata,"also, again"
+matawa,or alternatively
+mo,"also, too"
+ya,and
+ne,"emphasis, equivalent to 'right?'"
+ka,question marker
+kashira,I wonder
+koso,emphasis
+sae,even
+shika,only
+sura,even
+kurai,"approximately, about"
+dake,"only, as much as"
+datte,however
+tte,said that
+demo,"also, or"
+nado,for example
+bakari,"just, full of, only"
+made,until
+mo,"too, also"
