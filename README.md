@@ -10,3 +10,5 @@ If you know the word, you can press know button with icon "✓" to remove the wo
 If you don't know the word, press unknown button with icon "x" to keep the word from data, so it will display it again.
 
 If you press close button, it will display confirmation dialog about to save your progress or not.
+
+try flash card app: https://drive.google.com/file/d/19X2KWX5RltViPtOLspNg01fVD6UxdofO/view?usp=sharing
